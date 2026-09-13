@@ -2,5 +2,5 @@ a simple coroutine implementation written in C
 partial sysvabi compatible
 
 todo list:
-    full sysvabi callee-save register compatible
+    full sysvabi callee-save register support
     itanium c++ abi support
